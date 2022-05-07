@@ -45,7 +45,7 @@ Always open to accept new challenges into the infinity of the infrastructure wor
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="DigitalOcean" title="DigitalOcean" width="8%" />
 
 ## 💻 &nbsp; Open Source
-<img src="https://avatars0.githubusercontent.com/u/68596556?s=200&amp;v=4" alt="@kiwfy" title="kiwfy" width="8%" />
+<a href="https://github.com/kiwfy"><img src="https://avatars0.githubusercontent.com/u/68596556?s=200&amp;v=4" alt="@kiwfy" title="kiwfy" width="8%" /></a>
 
 ## 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/vitoresposito/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
