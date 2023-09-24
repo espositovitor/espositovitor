@@ -47,6 +47,9 @@ Always open to accept new challenges into the infinity of the infrastructure wor
 ## 💻 &nbsp; Open Source
 <a href="https://github.com/kiwfy"><img src="https://avatars0.githubusercontent.com/u/68596556?s=200&amp;v=4" alt="@kiwfy" title="kiwfy" width="8%" /></a>
 
+## 💻 &nbsp; Game Development
+<a href="https://espositovitor.itch.io/"><img src="https://pbs.twimg.com/profile_images/1212846124945428480/w1htiJ0v_400x400.png" alt="itch.io" title="itch.io" width="8%" /></a>
+
 ## 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/vitoresposito/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:vitor_esposito@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
