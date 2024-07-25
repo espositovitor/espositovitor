@@ -45,7 +45,7 @@ Always open to accept new challenges into the infinity of the infrastructure wor
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="DigitalOcean" title="DigitalOcean" width="8%" />
 
 ## 💻 &nbsp; Open Source
-<a href="https://github.com/kiwfy"><img src="https://avatars0.githubusercontent.com/u/68596556?s=200&amp;v=4" alt="@kiwfy" title="kiwfy" width="8%" /></a>
+<a href="https://github.com/not-empty"><img src="https://avatars.githubusercontent.com/u/146099012?s=200&v=4" alt="@not-empty" title="not-empty" width="8%" /></a>
 
 ## 💻 &nbsp; Game Development
 <a href="https://espositovitor.itch.io/"><img src="https://pbs.twimg.com/profile_images/1212846124945428480/w1htiJ0v_400x400.png" alt="itch.io" title="itch.io" width="8%" /></a>
