@@ -47,9 +47,6 @@ Always open to accept new challenges into the infinity of the infrastructure wor
 ## 💻 &nbsp; Open Source
 <a href="https://github.com/not-empty"><img src="https://avatars.githubusercontent.com/u/146099012?s=200&v=4" alt="@not-empty" title="not-empty" width="8%" /></a>
 
-## 💻 &nbsp; Game Development
-<a href="https://espositovitor.itch.io/"><img src="https://pbs.twimg.com/profile_images/1212846124945428480/w1htiJ0v_400x400.png" alt="itch.io" title="itch.io" width="8%" /></a>
-
 ## 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/vitoresposito/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:vitor_esposito@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
